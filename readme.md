@@ -1,24 +1,28 @@
-Spotify Song Recommender
-A simple app the recommends three songs based on a given song (title + artist)
+# Spotify Song Recommender
+==========================
 
-My Project
-On the front-end,
+A simple web application that recommends three songs based on a given song (title + artist).
 
-public/index.html contains the content of the webpage
-public/script.js is the javacript that runs when you load the webpage
-public/style.css is the styles for public/index.html
+## Project Structure
 
-On the back-end,
+### Front-end
 
-My app starts at server.js
-added frameworks and packages in package.json
-safely stored app secrets in .env 
+* `public/index.html`: contains the content of the webpage
+* `public/script.js`: JavaScript code that runs when the webpage is loaded
+* `public/style.css`: styles for `public/index.html`
+
+### Back-end
+
+* `server.js`: the entry point of the application
+* `package.json`: lists added frameworks and packages
+* `.env`: safely stores app secrets
+
+## Built on Glitch
+
+Glitch is a friendly community where you can build, remix, edit, and host apps, bots, or sites. You can invite collaborators or helpers to edit code with you simultaneously.
+
+## Part of the Postman API Project
+
+Learn more about Glitch: [insert link]
 
 
-Made by Glitch
-Glitch is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-Was done as a part of POSTMAN API PROJECT
-
-Find out more about Glitch.
-
-( ᵔ ᴥ ᵔ )
