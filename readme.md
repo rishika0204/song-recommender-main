@@ -17,12 +17,5 @@ A simple web application that recommends three songs based on a given song (titl
 * `package.json`: lists added frameworks and packages
 * `.env`: safely stores app secrets
 
-## Built on Glitch
-
-Glitch is a friendly community where you can build, remix, edit, and host apps, bots, or sites. You can invite collaborators or helpers to edit code with you simultaneously.
-
-## Part of the Postman API Project
-
-Learn more about Glitch: [insert link]
-
+( ᵔ ᴥ ᵔ )
 
